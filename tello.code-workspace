@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../tello_files"
+		}
+	],
+	"settings": {}
+}
